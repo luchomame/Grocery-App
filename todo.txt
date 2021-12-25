@@ -1,0 +1,5 @@
+Kroger
+  get developer access
+  LEARN IT
+    learn how to pull prices
+      are they location independent? Can I put in an address? 

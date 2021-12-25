@@ -1,0 +1,21 @@
+What is the plan for the grocery APIs?
+  query them so you can get grocery prices
+  Be able to say "hey how much are chicken breasts" and it searches kroger, publix, etc.
+  compares prices and says "this play has the cheapest and this is the product"
+  also be able to see the products at other stores
+    lets start with kroger, then publix, then walmart
+
+What is a must
+  simple UI where I can use my phone app to do it
+    plan to use react-native
+  connect to APIs
+    let each component call an API individually
+      getKrogerPrices(), etc.
+    have a master script run it and put all the resuts back together
+  be able to search for stuff individually as well as put a list
+  can save list
+
+what would be nice to have ?
+  maybe a database to hold the values
+  add a refresh value
+  make the UI better with graphs and shit but keep it simple for now 
